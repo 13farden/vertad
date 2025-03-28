@@ -1,0 +1,300 @@
+body{
+    background: url("../фото/фон-1.jpg");
+
+ }
+
+
+.cfaqs{
+ /* Rectangle 4 */
+
+position: absolute;
+width: 2113px;
+height: 4px;
+left: 0px;
+top: 117px;
+
+background: #FFFFFF;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+
+}
+.GEQWD{
+    /* Ellipse 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 496.1px;
+height: 474.42px;
+left: 103px;
+top: 323px;
+
+background: #D9D9D9;
+border: 4px solid #000000; 
+} 
+
+.DQEQ{
+
+position: absolute;
+width: 152px;
+height: 29px;
+left: 997px;
+top: 29px;
+
+}
+
+.DQWRER{
+    /* Group 3 */
+
+position: absolute;
+width: 136px;
+height: 29px;
+left: 1190px;
+top: 29px;
+
+
+}
+.FWSEE{
+  /* Group 4 */
+
+position: absolute;
+width: 100px;
+height: 23px;
+left: 863px;
+top: 29px;
+}
+
+ul a{
+      /* Frame 5 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 126px;
+min-width: 120px;
+height: 46px;
+
+border: 2px solid #FFFFFF;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+        text-decoration: none;
+        color: rgb(255, 255, 255);
+
+     }
+.dwd2qw{
+    /* Rectangle 5 */
+
+position: absolute;
+width: 741px;
+height: 772px;
+left: 1372px;
+top: 138px;
+
+background: #ECECEC;
+}
+.rwdws{
+    /* Group 15 */
+
+position: absolute;
+width: 1372px;
+height: 772px;
+left: 0px;
+top: 138px;
+
+
+}
+
+.rwe{
+ /* Rectangle 3 */
+
+position: absolute;
+width: 2113px;
+height: 2.22px;
+left: 0px;
+top: 83.22px;
+
+background: #FFFFFF;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+
+
+}
+
+
+.adfw{
+/* Солнечная система */
+
+position: absolute;
+width: 629px;
+height: 77px;
+left: 1405px;
+top: 199px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+
+color: #000000;
+}
+
+.ioe23{
+    /*  планетная система, включающая в себя центральную звезду Солнце и все естественные космические объекты на гелиоцентрических орбитах. Она сформировалась путём гравитационного сжатия газопылевого облака примерно 4,57 млрд лет назад */
+
+position: absolute;
+width: 515px;
+height: 293px;
+left: 1422px;
+top: 311px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+
+}
+
+.aFDW{
+    /* С ЧЕГО ВЫ ГОТИТЕ НАЧАТЬ? */
+
+position: absolute;
+width: 519px;
+height: 44px;
+left: 797px;
+top: 1003px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+}
+
+.CSDQA{
+    /* Rectangle 4 */
+
+position: absolute;
+width: 2113px;
+height: 4px;
+left: 0px;
+top: 1142px;
+
+background: #FFFFFF;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+}
+
+.FEWQD{
+    /* Group 10 */
+
+position: absolute;
+width: 496.1px;
+height: 575px;
+left: 103px;
+top: 1244px;
+
+}
+.sqw{
+    /* Group 12 */
+
+position: absolute;
+width: 496.1px;
+height: 575px;
+left: 837px;
+top: 1233px;
+
+
+}
+
+.dasq{
+ /* Group 10 */
+
+position: absolute;
+width: 496.1px;
+height: 575px;
+left: 1514.9px;
+top: 1244px;
+
+}
+.yhjf{
+/* Frame 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+width: 1630px;
+height: 527px;
+left: calc(50% - 1630px/2 - 0.5px);
+top: calc(50% - 527px/2 - 7px);
+
+
+
+}
+.feadx{
+    /* Group 10 */
+
+position: absolute;
+width: 431px;
+height: 555px;
+left: 829px;
+top: 204px;
+
+
+}
+
+.uih7{
+ /* Rectangle 1 */
+
+position: absolute;
+width: 2113px;
+height: 1px;
+left: 0px;
+top: 123px;
+
+background: #FFFFFF;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+}
+.jkjo9{
+    /* kjuj 1 */
+
+position: absolute;
+width: 102px;
+height: 84px;
+left: 46px;
+top: 14px;
+
+background: url(kjuj.png);
+
+}
